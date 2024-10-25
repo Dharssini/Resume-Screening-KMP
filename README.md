@@ -2,7 +2,7 @@
 A web app to help employers by analysing resumes and CVs, surfacing candidates that best match the position and filtering out those who don't.
 
 ## Description
-Used recommendation engine techniques such as Collaborative , Content-Based filtering for fuzzy matching job description with multiple resumes.
+Used recommendation engine techniques such as KMP, Collaborative , Content-Based filtering for fuzzy matching job description with multiple resumes.
 
 ## Prerequisites
 
