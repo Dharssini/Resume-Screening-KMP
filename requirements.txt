@@ -1,7 +1,7 @@
 textract==1.6.3
 requests==2.22.0
 Flask==1.1.1
-gensim==3.8.0
+gensim
 sklearn==0.0
 PyPDF2==1.26.0
 autocorrect==0.4.4
