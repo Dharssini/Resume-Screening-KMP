@@ -9,7 +9,7 @@ nltk==3.4.5
 contractions==0.0.21
 textsearch==0.0.17
 inflect==2.1.0
-numpy==1.17.2
+numpy==1.24.0
 pdfminer.six==20181108
 jinja2==2.11.3
 markupsafe==2.0.1
