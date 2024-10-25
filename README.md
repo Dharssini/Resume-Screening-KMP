@@ -22,12 +22,6 @@ Used recommendation engine techniques such as Collaborative , Content-Based filt
 * pdfminer.six==20181108
 * Python 3.6.0 |Anaconda 4.3.0 (64-bit)|
 
-# Dataset
-
-* Link1 : https://s3.ap-south-1.amazonaws.com/codebyte-bucket/Resume%26Job_Descriptions.zip
-* Mirror : https://drive.google.com/open?id=17M9oDPip5JFFFNJhDCBQKy8BMqoyxajU
-
-
 ## Running localhost
 
 * Run `pip install -r requirements.txt` to install dependencies
@@ -40,11 +34,3 @@ python app.py
 
 ```
 
-## Running using Docker
-* Create the docker image running: `docker build -t arss .`
-
-* Run the container: `docker run -it -p 5000:5000 arss`
-
-## Author
-
-# @CodeByte
