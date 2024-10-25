@@ -1,0 +1,51 @@
+Job Title: AI Engineer
+
+
+Job Type: Full-Time
+
+Job Overview:
+We are looking for a skilled AI Engineer to join our team and drive the development and deployment of advanced AI solutions. The ideal candidate will have a strong background in artificial intelligence, machine learning, and data analysis. You will be responsible for designing, building, and implementing AI models and systems that solve complex problems and enhance our products and services.
+
+Tech Requirements:
+Machine Learning Frameworks:
+
+Experience with machine learning frameworks and libraries such as TensorFlow, Keras, PyTorch, or Scikit-learn.
+Proficiency in developing and deploying machine learning models for various applications.
+Programming Languages:
+
+Strong proficiency in programming languages such as Python, R, or Java.
+Experience with Python libraries and tools for data manipulation and machine learning.
+Data Analysis Tools:
+
+Experience with data analysis and visualization tools such as Pandas, NumPy, and Matplotlib.
+Knowledge of big data technologies like Apache Hadoop or Spark is a plus.
+Skills Requirements:
+AI and Machine Learning:
+
+Strong understanding of machine learning algorithms, neural networks, and deep learning techniques.
+Ability to design and implement AI models for natural language processing, computer vision, or other AI applications.
+Data Management:
+
+Experience in handling and processing large datasets, including data cleaning and preprocessing.
+Knowledge of database management and data storage solutions.
+Software Development:
+
+Proficiency in software development best practices, including version control (e.g., Git) and agile methodologies.
+Experience with cloud platforms such as AWS, Google Cloud, or Azure for deploying AI solutions.
+Additional Skills:
+Problem-Solving: Excellent problem-solving skills with the ability to design innovative solutions for complex AI challenges.
+Collaboration: Strong communication skills and experience working in cross-functional teams with data scientists, engineers, and stakeholders.
+Research and Development: Ability to stay current with AI research and advancements and integrate new techniques into projects.
+Responsibilities:
+Design, develop, and implement AI models and algorithms to solve specific business problems.
+Collaborate with data scientists, engineers, and product managers to understand requirements and deliver AI solutions.
+Analyze and preprocess data to ensure it is suitable for machine learning models.
+Monitor and evaluate the performance of AI models and make improvements as needed.
+Stay up-to-date with the latest AI research and industry trends to incorporate cutting-edge techniques into projects.
+Document and present findings, model performance, and project progress to stakeholders.
+Education and Experience:
+Master’s degree in Computer Science, Artificial Intelligence, Data Science, or a related field.
+Proven experience as an AI Engineer or in a similar role with a strong portfolio of AI projects.
+Prior experience with AI applications in industry settings is preferred.
+Certifications:
+Certifications in AI and Machine Learning from recognized institutions or platforms (e.g., Coursera, edX, Udacity) are a plus.

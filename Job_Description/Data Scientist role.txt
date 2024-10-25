@@ -1,0 +1,48 @@
+Job Title: Data Scientist (Machine Learning & Computer Vision)
+
+Job Type: Full-Time
+
+Job Overview:
+We are seeking a highly skilled Data Scientist with a strong background in Machine Learning and Computer Vision to join our innovative team. The successful candidate will be responsible for developing advanced and models to solve complex problems and extract valuable insights from large datasets. You will work closely with cross-functional teams to apply data-driven solutions that drive business decisions and enhance product offerings.
+
+
+ Virtual try-on framework designed to enhance the online and physical shopping experience by allowing users to 
+visualize how clothes will look on them using only 2D images. 
+Followed the architecture of CP-VTON, a two-stage solution involving GMM for cloth warping and TOM for 
+integrating clothes with the model image.
+
+Skills Requirements:
+Programming Languages: Proficiency in Python, R, and experience with libraries like NumPy, Pandas, and Matplotlib for data manipulation and visualization.
+Data Processing:
+Expertise in data cleaning, preprocessing, and feature engineering.
+Experience with large datasets and tools such as SQL, Hadoop, or Spark.
+Ability to perform exploratory data analysis (EDA) to identify trends, patterns, and anomalies.
+Statistical Analysis:
+Strong understanding of statistical methods and their applications in data science.
+Experience with hypothesis testing, A/B testing, and statistical modeling.
+Deep Learning:
+Experience with neural networks, particularly for computer vision tasks.
+Familiarity with frameworks like TensorFlow and PyTorch for developing and training deep learning models.
+Data Visualization:
+Proficiency in creating compelling data visualizations using tools like Matplotlib, Seaborn, or Plotly.
+Experience with business intelligence tools such as Tableau or Power BI.
+Version Control: Proficient in using Git for version control, with experience managing large codebases and collaborating on projects.
+Built an automated pipeline for data collection, processing and splitting. Developed a CNN model with Transfer 
+Learning and data augmentation to classify chicken diseases from images. 
+Used MLflow for experiment tracking and DVC for managing datasets and model versions. 
+Deployed the trained model for real time inference with a REST API for scalable deployment.  
+Evaluation Metrics: Accuracy, Precision, Recall, and F1-score 
+GeeksforGeeks : Campus Mandri and Treasurer at GFGCIT  
+Organized GeeksforGeeks workshops and promoted GeeksforGeeks events on campus, served as key communicator 
+between GFG organization and the club.  
+Deepvision.AI course on AI for assistive technology    
+August 2022 – September 2022 
+ The course gave a deep insight into the basics of Deep Learning and I worked on the project of 'Sign Language 
+Detection' with primarily sourced data, streamed it on StreamLit, and deployed the model on the Heroku platform. 
+DevTown: Industrial Training and Internship Program   
+September 2021 – February 2022 
+Worked on several industrial level projects with various web development tech stack: NodeJs, React, Bootstrap, 
+Chakra UI, Mongo DB. 
+1st milestone on Google Cloud Facilitator program (8 quest and 4 skill badges)
+
+

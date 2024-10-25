@@ -1,0 +1,32 @@
+Job Title: Backend Developer
+
+Job Type: Full-Time
+
+Job Overview:
+We are looking for a skilled Backend Developer to join our engineering team. The ideal candidate will have a strong background in server-side development, with experience in building robust and scalable backend systems that support web and mobile applications.
+
+Tech Requirements:
+Backend Development:
+
+Proficiency in server-side programming languages such as Java, Python, Ruby, or C#.
+Experience with backend frameworks and technologies like Django, Flask, Spring Boot, or Ruby on Rails.
+APIs:
+
+Strong understanding of RESTful API design and development.
+Experience with API documentation and tools like Swagger or Postman.
+Skills Requirements:
+Database Management: Proficiency in SQL and experience with relational databases (e.g., MySQL, PostgreSQL) and NoSQL databases (e.g., MongoDB).
+Security: Knowledge of web application security practices and techniques.
+Performance Optimization:
+Experience in optimizing backend systems for performance and scalability.
+Familiarity with caching mechanisms and distributed systems.
+Additional Skills:
+Problem-Solving: Strong problem-solving skills with the ability to debug and resolve complex issues.
+Collaboration: Excellent communication skills and ability to work effectively with front-end developers, product managers, and other team members.
+Agile Methodology: Experience with Agile methodologies and tools.
+Responsibilities:
+Develop and maintain server-side logic and APIs for web and mobile applications.
+Ensure high performance and responsiveness of applications by optimizing code and infrastructure.
+Collaborate with front-end developers to integrate user-facing elements with server-side logic.
+Write and maintain documentation for backend systems and APIs.
+Monitor and troubleshoot backend systems and provide technical support as needed.

@@ -1,0 +1,45 @@
+Job Title: MERN Stack Developer
+
+
+Job Type: Full-Time
+
+Job Overview:
+We are looking for a talented and motivated MERN Stack Developer to join our growing team. The ideal candidate will have a strong foundation in front-end and back-end web development, with expertise in the MERN stack and solid experience in essential web technologies. You will be responsible for developing and maintaining web applications that deliver exceptional user experiences and meet business needs.
+
+Tech Requirements:
+MERN Stack:
+MongoDB: Proficiency in designing, querying, and managing NoSQL databases.
+Express.js: Experience in building and managing web applications using Express.js for the backend.
+React: Strong ability to develop dynamic and responsive user interfaces using React.
+Node.js: Proficient in server-side development using Node.js.
+Skills Requirements:
+HTML: Advanced understanding of HTML5 for structuring web content effectively.
+CSS: Expertise in styling with CSS3, including Flexbox, Grid, and responsive design techniques.
+JavaScript: Strong proficiency in JavaScript (ES6+), including concepts like closures, asynchronous programming, and DOM manipulation.
+C++: Solid knowledge of C++ for problem-solving, algorithm design, and understanding of system-level programming concepts.
+Front-End Development:
+Experience with modern JavaScript libraries and frameworks, particularly React.
+Knowledge of component-based architecture and state management using tools like Redux.
+Familiarity with responsive design principles and cross-browser compatibility issues.
+Back-End Development:
+Strong understanding of building RESTful APIs with Node.js and Express.js.
+Experience in integrating third-party services and APIs.
+Knowledge of security best practices in web development.
+Database Management:
+Experience with MongoDB, including data modeling, aggregation, and performance optimization.
+Familiarity with database management tools and techniques.
+Version Control:
+Proficient in using Git for version control, including branching, merging, and pull requests.
+Experience with GitHub or other version control platforms.
+Additional Skills:
+Problem-Solving: Excellent analytical skills with the ability to troubleshoot and solve complex issues.
+Collaboration: Strong communication skills and ability to work effectively in a team environment.
+Agile Methodology: Familiarity with Agile development practices, including working in sprints and participating in daily stand-ups.
+Responsibilities:
+Design and develop scalable web applications using the MERN stack.
+Collaborate with designers and product managers to implement new features and improve existing ones.
+Optimize applications for maximum speed and scalability.
+Ensure the technical feasibility of UI/UX designs.
+Conduct code reviews and provide feedback to peers.
+Troubleshoot and debug issues in a timely manner.
+Stay updated with emerging technologies and industry trends.
