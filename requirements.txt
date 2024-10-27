@@ -1,3 +1,5 @@
+setuptools>=42
+wheel
 argcomplete==1.10.0
 autocorrect==0.4.4
 beautifulsoup4==4.8.0
