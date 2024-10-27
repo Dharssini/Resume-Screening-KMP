@@ -1,5 +1,4 @@
 argcomplete==1.10.0
-autocorrect==1.0.0
 beautifulsoup4==4.8.0
 certifi==2024.7.4
 cffi==1.15.1
