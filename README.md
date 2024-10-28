@@ -20,14 +20,11 @@ Used recommendation engine techniques such as KMP, Collaborative , Content-Based
 * inflect==2.1.0
 * numpy==1.17.2
 * pdfminer.six==20181108
-* Python 3.6.0 |Anaconda 4.3.0 (64-bit)|
 
 ## Running localhost
 
 * Run `pip install -r requirements.txt` to install dependencies
 * Simply run this command from root directory.
-* Login Username :admin
-        Password : whitetigers2018
 
 ```
 python app.py
