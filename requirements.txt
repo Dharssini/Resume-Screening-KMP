@@ -62,6 +62,6 @@ XlsxWriter==3.2.0
 zipp==3.15.0
 wheel
 setuptools
-distutils
+
 numpy
 
