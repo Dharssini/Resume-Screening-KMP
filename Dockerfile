@@ -10,4 +10,5 @@ WORKDIR /code
 
 EXPOSE 5000
 
-CMD ["gunicorn", "app:app"]
+CMD ["gunicorn", "--bind", "0.0.0.0:10000", "app:app"]
+
