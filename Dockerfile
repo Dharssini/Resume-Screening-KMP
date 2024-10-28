@@ -10,4 +10,4 @@ WORKDIR /code
 
 EXPOSE 5000
 
-CMD python app.py
+CMD ["gunicorn", "app: app"]
