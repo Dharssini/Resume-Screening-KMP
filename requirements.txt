@@ -59,3 +59,6 @@ wrapt==1.16.0
 xlrd==1.2.0
 XlsxWriter==3.2.0
 zipp==3.15.0
+wheel
+setuptools
+numpy==1.17.2
